@@ -1,5 +1,5 @@
 ### Hi there 👋 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Su-Yuki) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Su-Yuki&layout=compact&theme=dracula)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Su-Yuki)   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Su-Yuki&layout=compact&theme=dracula)
 
 
 <!--
