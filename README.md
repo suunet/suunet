@@ -1,5 +1,5 @@
 ### Hi there 👋
-[！[AnuragのGitHub統計]（https://github-readme-stats.vercel.app/api？username = Su-Yuki）]（https://github.com/anuraghazra/github-readme-stats）
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Su-Yuki)
 
 
 <!--
