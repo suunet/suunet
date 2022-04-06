@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Su-Yuki)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tocoteron&layout=compact&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Su-Yuki&layout=compact&theme=dracula)
 
 
 <!--
