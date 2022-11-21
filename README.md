@@ -5,14 +5,12 @@
   </a>
 </div>
 <br>
-<div>
-  <a href="https://github.com/Su-Yuki">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Su-Yuki&count_private=true&show_icons=true&theme=dracula" />
-  </a>
-  <a href="https://github.com/Su-Yuki">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su-Yuki&layout=compact&theme=dracula" />
-  </a>
-</div>
+
+<a href="https://github.com/Su-Yuki">
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Su-Yuki&count_private=true&show_icons=true&theme=dracula" />
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su-Yuki&layout=compact&theme=dracula" />
+</a>
+
 
 <!--
 **Su-Yuki/Su-Yuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
