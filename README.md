@@ -3,10 +3,11 @@
 
 ### 👨🏻‍💻　About Me
 
+💼 I work in contract software development.  
 ✅ Testing is important.  
 📐 I just like Hexagonal Architecture.  
-💻 I handle a wide range of tasks, from coding and PL to requirement definition and implementation.  
 🐹 Recently, I've been learning Go.  
+💻 I handle a wide range of tasks, from coding and PL to requirement definition and implementation.  
 
 ### 🛠　Skills
 
