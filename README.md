@@ -5,7 +5,7 @@
 
 💼 I work in contract-based software development.  
 💻 I handle a wide range of tasks, from coding and project leadership to requirement definition and implementation.  
-☁ I hold an AWS certification and am working toward earning more.  
+☁ I am AWS Associate certified and currently pursuing a Professional certification.   
 🐹 Recently, I've been learning Go.  
 📐 I simply like Hexagonal Architecture.  
 ✅ Testing is essential.  
