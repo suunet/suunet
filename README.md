@@ -3,12 +3,12 @@
 
 ### 👨🏻‍💻　About Me
 
-💼 I work in contract software development.  
-✅ Testing is important.  
-📐 I just like Hexagonal Architecture.  
+💼 I work in contract-based software development.  
+💻 I handle a wide range of tasks, from coding and project leadership to requirement definition and implementation.  
+☁ I hold an AWS certification and am working toward earning more.  
 🐹 Recently, I've been learning Go.  
-💻 I handle a wide range of tasks, from coding and PL to requirement definition and implementation.  
-☁ I hold an AWS certification and aim to earn more.
+📐 I simply like Hexagonal Architecture.  
+✅ Testing is essential.  
 
 ### 🛠　Skills
 
