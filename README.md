@@ -8,6 +8,7 @@
 📐 I just like Hexagonal Architecture.  
 🐹 Recently, I've been learning Go.  
 💻 I handle a wide range of tasks, from coding and PL to requirement definition and implementation.  
+☁ I hold an AWS certification and aim to earn more.
 
 ### 🛠　Skills
 
