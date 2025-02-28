@@ -4,7 +4,7 @@
 ### 👨🏻‍💻　About Me
 
 ✅ Testing is important.  
-📐 Hexagonal Architecture—because dependencies should be flexible, unlike my weekend plans.  
+📐 I just like Hexagonal Architecture.  
 💻 I handle a wide range of tasks, from coding and PL to requirement definition and implementation.  
 🐹 Recently, I've been learning Go.  
 
