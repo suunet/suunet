@@ -1,4 +1,4 @@
-## Hey there! I'm suu
+## Hi there! I'm suu
 
 
 ### 👨🏻‍💻　About Me
