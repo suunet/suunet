@@ -4,7 +4,6 @@
 ### 👨🏻‍💻　About Me
 
 💼 I work in contract software development.  
-💻 I handle a wide range of tasks, from coding and project leadership to requirement definition and implementation.  
 ☁ I am AWS Associate certified and currently pursuing a Professional certification.   
 🐹 Recently, I've been learning Go.  
 📐 I simply like Hexagonal Architecture.  
