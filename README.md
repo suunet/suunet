@@ -1,6 +1,6 @@
 ## Hi there! I'm suu
 
-
+<!--
 ### 👨🏻‍💻　About Me
 
 💼 I work in contract software development.  
@@ -8,6 +8,7 @@
 🐹 Recently, I've been learning Go.  
 📐 I simply like Hexagonal Architecture.  
 ✅ Testing is essential.  
+-->
 
 ### 🛠　Skills
 
