@@ -24,3 +24,9 @@
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suunet&layout=compact&theme=dracula" />
 </a>
 -->
+
+### 🏅　Certifications
+
+- AWS Certified Solutions Architect – Associate
+- AWS Certified SysOps Administrator – Associate
+- AWS Certified Developer – Associate
