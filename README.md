@@ -14,7 +14,7 @@
 
 <div>
   <a href="https://skillicons.dev">
-    <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,react,nextjs,scala,php,laravel,py,fastapi,aws,docker,githubactions" />
+    <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,react,nextjs,scala,php,laravel,py,fastapi,go,aws,githubactions" />
   </a>
 </div>
 
